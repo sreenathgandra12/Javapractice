@@ -1,4 +1,4 @@
-package Day3;
+package Day3.single;
 
 public class Mobile {
     private String mobileName;

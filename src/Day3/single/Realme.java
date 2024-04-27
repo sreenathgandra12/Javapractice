@@ -1,6 +1,6 @@
-package Day3;
+package Day3.single;
 
-public class Realme extends Mobile{
+public class Realme extends Mobile {
     public Realme( String mobileName, String model, String colour, String ram) {
         super( mobileName, model, colour, ram);
     }

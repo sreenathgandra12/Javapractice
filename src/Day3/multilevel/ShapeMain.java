@@ -1,4 +1,4 @@
-package Day3;
+package Day3.multilevel;
 
 public class ShapeMain {
     public static void main(String[] args) {
